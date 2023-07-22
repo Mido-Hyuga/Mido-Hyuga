@@ -10,7 +10,10 @@
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Education is the passport to the future, for tomorrow belongs to those who prepare for it today.” — Malcolm X ❞</i>
+  <img align="center" alt="Arabic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arabic/arabic-original.svg">
+  <img align="center" alt="French" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/france/france-original.svg">
+  <img align="center" alt="English" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/england/england-original.svg">
+  <img align="center" alt="German" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/germany/germany-original.svg">
 <!--ENDS_HERE_QUOTE_README-->
 
 #
