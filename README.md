@@ -8,15 +8,8 @@
 
 #
 
-### ⚡ Languages: 
-<!--STARTS_HERE_QUOTE_README-->
-<div style="display:inline_block"><br>
-  <img align="center" alt="Arabic" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/197/197604.svg">
-  <img align="center" alt="French" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/197/197604.svg">
-  <img align="center" alt="English" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/197/197571.svg">
-  <img align="center" alt="German" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/197/197571.svg">
-</div>
-<!--ENDS_HERE_QUOTE_README-->
+### ⚡ Support
+<p><a target="blank" href="https://www.paypal.com/paypalme/midohyuga"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mido-Hyuga" /></a></p><br><br>
 
 #
 
