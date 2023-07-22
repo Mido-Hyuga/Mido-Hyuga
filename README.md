@@ -43,8 +43,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Shell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Database" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg">
-  <img align="center" alt="Machine Learning" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machinelearning/machinelearning-original.svg">
 </div>
 
 #
