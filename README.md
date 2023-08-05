@@ -6,6 +6,11 @@
 - 👯 I’m looking to collaborate on exciting projects with other developers.
 - 💬 Feel free to explore my repositories and ask me anything about them.
 
+#### Education:
+
+- 🎓 Diploma of Technology in Informatik Engineering "DUT".
+- 🎓 Bachelor's Degree in Mathematics and Computer Science "lf:SMI".
+
 #
 
 ### ⚡ Support
