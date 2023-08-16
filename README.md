@@ -9,7 +9,7 @@
 #### Education:
 
 - 🎓 Diploma of Technology in Informatics Engineering "DUT".
-- 🎓 Bachelor's Degree in Mathematics and Computer Science "Lf:SMI".
+- 🎓 Bachelor's Degree in Mathematics and Computer Science "LF:SMI".
 
 #
 
