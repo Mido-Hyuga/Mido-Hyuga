@@ -31,6 +31,7 @@
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Mido-Hyuga">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mido-Hyuga" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mido-Hyuga)](https://git.io/streak-stats)
 </a>
 
 #
