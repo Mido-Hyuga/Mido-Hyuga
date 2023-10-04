@@ -28,8 +28,7 @@
 #
 
 ### Streak
-
-<a href="https://streak-stats.demolab.com/?user=Mido-Hyuga"></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mido-Hyuga)](https://git.io/streak-stats)
 
 #
 
