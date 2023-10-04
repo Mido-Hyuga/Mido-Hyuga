@@ -37,7 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mido-Hyuga&show_icons=true&theme=onedark" align="left" style="width: 100%" />
  
 </td></tr></table>
-[![](http://streak-stats.demolab.com/?user=Mido-Hyuga&theme=dark)](https://git.io/streak-stats)
+![](http://streak-stats.demolab.com/?user=Mido-Hyuga&theme=dark)
 #
 
 ### Tools & Technologies
