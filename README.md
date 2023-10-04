@@ -28,7 +28,15 @@
 #
 
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mido-Hyuga)](https://git.io/streak-stats)
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mido-Hyuga&show_icons=true&theme=onedark" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mido-Hyuga&show_icons=true&theme=onedark" align="left" style="width: 100%" />
+ 
+</td></tr></table>
 
 #
 
