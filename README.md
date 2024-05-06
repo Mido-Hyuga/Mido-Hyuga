@@ -10,6 +10,7 @@
 
 - 🎓 Diploma of Technology in Informatics Engineering "DUT".
 - 🎓 Bachelor's Degree in Mathematics and Computer Science "LF:SMI".
+- 🎓 Master of Research in Information Systems Security (French: Master de recherche en Sécurité des systèmes d'informations)
 
 #
 
