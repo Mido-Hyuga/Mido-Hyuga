@@ -2,7 +2,7 @@
 
 #### My name is Elmehdi Bouslam and I am a student. Welcome to my GitHub repositories.
 
-- 🌱 I’m currently a student at ALX Africa.
+- 🌱 I’m currently a student at ALX Africa and ENSA Kenitra.
 - 👯 I’m looking to collaborate on exciting projects with other developers.
 - 💬 Feel free to explore my repositories and ask me anything about them.
 
